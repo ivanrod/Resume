@@ -1,0 +1,16 @@
+{
+  "name": "ivanrod-resume",
+  "version": "1.0.0",
+  "description": "Francisco Ivan Rodriguez Lopez Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iván Rodríguez<frivanrodriguez@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "resume-schema": "0.0.16",
+    "jsonresume-theme-sceptile": "1.0.5",
+    "jsonresume-theme-elegant": "1.6.10"
+  }
+}
