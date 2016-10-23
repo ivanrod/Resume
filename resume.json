@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Francisco Iván Rodríguez López",
+    "label": "Web developer",
+    "picture": "foto.png",
+    "email": "frivanrodriguez@gmail.com",
+    "phone": "(+34) 620 380 027",
+    "website": "https://about.me/ivanrod",
+    "summary": "My work goals are to make high-quality, exciting, web applications that people love to use on any device while working with other smart and highly motivated engineers.",
+    "location": {
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Madrid"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ivanrod",
+        "url": "https://github.com/ivanrod"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "bq",
+      "position": "Javascript developer",
+      "website": "http://bq.com",
+      "startDate": "2015-04-20",
+      "summary": "Application development based on Javascript technologies. Job involves using multiple JavaScript libraries (Polymer, Angular2, i18next) and develop own libraries, some of them open sourced",
+      "highlights": [
+        "Created a large scale application using Polymer in the front-end",
+        "Followed Agile development and consistently delivered new features on time during sprints",
+        "Contributed and developed open source projects",
+        "Communicated updates in daily scrum meetings using JIRA software",
+        "Developed internal apps using Angular2 (front-end) & Node.js(back-end)"
+      ]
+    },
+    {
+      "company": "Altran",
+      "position": "Web developer",
+      "website": "http://altran.es",
+      "startDate": "2015-01-01",
+      "endDate": "2015-04-19",
+      "summary": "Web development using Java (back-end) and Angular (front-end)",
+      "highlights": [
+        "Created applications using Angular1 in the front-end",
+        "Developed a Java middleware"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Santiago de Compostela",
+      "area": "Geomatics engeneering",
+      "studyType": "Bachelor",
+      "startDate": "2004-09-01",
+      "endDate": "2009-07-01"
+    },
+    {
+      "institution": "Faculdade de Ciencias da Universidade de Lisboa",
+      "area": "Geomatics engeneering",
+      "studyType": "Erasmus internship",
+      "startDate": "2007-09-01",
+      "endDate": "2008-07-01"
+    },
+    {
+      "institution": "Universidad del Pais Vasco",
+      "area": "Geomatics engeneering",
+      "studyType": "Seneca internship",
+      "startDate": "2008-09-01",
+      "endDate": "2009-07-01"
+    },
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "area": "Geomatics engeneering",
+      "studyType": "Master",
+      "startDate": "2011-09-01",
+      "endDate": "2014-07-01"
+    },
+    {
+      "institution": "Ironhack",
+      "area": "Web development",
+      "studyType": "Bootcamp",
+      "startDate": "2014-09-01",
+      "endDate": "2014-12-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript",
+      "level": "Advanced",
+      "keywords": [
+        "Polymer",
+        "Node.js",
+        "Angular2",
+        "Gulp",
+        "Web components",
+        "Webpack",
+        "Express",
+        "ES6"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Medium",
+      "keywords": [
+        "Jenkins",
+        "Git",
+        "Stash",
+        "Github",
+        "Travis"
+      ]
+    },
+    {
+      "name": "Agile",
+      "level": "Medium",
+      "keywords": [
+        "Jira",
+        "Scrum"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic Profesional Skills"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Node.js",
+      "keywords": [
+        "Javascript",
+        "Back-end"
+      ]
+    },
+    {
+      "name": "Polymer",
+      "keywords": [
+        "Javascript",
+        "UI Library",
+        "Front-end"
+      ]
+    },
+    {
+      "name": "React",
+      "keywords": [
+        "Javascript",
+        "UI Library",
+        "Front-end"
+      ]
+    },
+    {
+      "name": "Redux",
+      "keywords": [
+        "Javascript",
+        "Flux implementation"
+      ]
+    }
+  ],
+  "meta": {
+    "url": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "dateModified": 1461755909
+  }
+}
