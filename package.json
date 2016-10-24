@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "resume-schema": "0.0.16",
+    "gulp": "3.9.1",
+    "gulp-rename": "1.2.2",
+    "gulp-resume": "0.1.4",
     "jsonresume-theme-sceptile": "1.0.5",
     "jsonresume-theme-elegant": "1.6.10"
   }
