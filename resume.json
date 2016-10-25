@@ -2,7 +2,7 @@
   "basics": {
     "name": "Francisco Iván Rodríguez López",
     "label": "Web developer",
-    "picture": "foto.png",
+    "picture": "./assets/foto.png",
     "email": "frivanrodriguez@gmail.com",
     "phone": "(+34) 620 380 027",
     "website": "https://about.me/ivanrod",
@@ -88,7 +88,7 @@
   "skills": [
     {
       "name": "Javascript",
-      "level": "Advanced",
+      "level": "Master",
       "keywords": [
         "Polymer",
         "Node.js",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Continuous Integration",
-      "level": "Medium",
+      "level": "Advanced",
       "keywords": [
         "Jenkins",
         "Git",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Agile",
-      "level": "Medium",
+      "level": "Advanced",
       "keywords": [
         "Jira",
         "Scrum"
@@ -136,33 +136,21 @@
   ],
   "interests": [
     {
-      "name": "Node.js",
-      "keywords": [
-        "Javascript",
-        "Back-end"
-      ]
-    },
-    {
-      "name": "Polymer",
-      "keywords": [
-        "Javascript",
-        "UI Library",
-        "Front-end"
-      ]
-    },
-    {
       "name": "React",
       "keywords": [
-        "Javascript",
-        "UI Library",
-        "Front-end"
+        "Redux",
+        "Flux",
+        "GraphQL",
+        "Immutable",
+        "Flowtype"
       ]
     },
     {
-      "name": "Redux",
+      "name": "Node.js",
       "keywords": [
-        "Javascript",
-        "Flux implementation"
+        "Back-end",
+        "Express",
+        "Restify"
       ]
     }
   ],
